@@ -1,3 +1,3 @@
-#The Odin Project
+# The Odin Project
 > [!NOTE]
 > ok?ok
